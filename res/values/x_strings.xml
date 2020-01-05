@@ -1211,4 +1211,6 @@
     <string name="qs_bg_accent_summary">Set QS background color from System Accent</string>
 
     <string name="accent_color">Accent picker</string>
+    <string name="gradient_color">Gradient picker</string>
+
 </resources>

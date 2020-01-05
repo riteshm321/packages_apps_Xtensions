@@ -85,6 +85,14 @@
         android:key="accent_color"
         android:title="@string/accent_color"
         android:defaultValue="0xffffff"
+        android:summary="%s"
+        android:persistent="false" />
+
+    <net.margaritov.preference.colorpicker.ColorPickerPreference
+        android:key="gradient_color"
+        android:title="@string/gradient_color"
+        android:defaultValue="0xffffff"
+        android:summary="%s"
         android:persistent="false" />
 
 </PreferenceScreen>
