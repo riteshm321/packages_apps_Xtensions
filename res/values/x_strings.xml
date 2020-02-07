@@ -1107,12 +1107,10 @@
     <!-- Ambient edge lighting -->
     <string name="notification_screen_title">Ambient Edge lighting</string>
     <string name="pulse_ambient_light_title">Enable Edge Lighting</string>
-    <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification</string>
+    <string name="pulse_ambient_light_summary">Light up the side edges of the screen on new notification</string>
     <string name="ambient_notification_light_enabled_title">Show edge lighting on AoD</string>
     <string name="ambient_notification_light_enabled_summary">Show edge lighting on AoD on new notification</string>
     <string name="pulse_ambient_light_color_title">Edge light color</string>
-    <string name="pulse_ambient_auto_color_title">Auto color</string>
-    <string name="pulse_ambient_auto_color_summary">Sets edge light color to the primary color of wallpaper</string>
     <string name="pulse_ambient_light_duration_title">Duration</string>
     <string name="pulse_ambient_light_duration_summary">Sets the ambient light animation duration</string>
 
