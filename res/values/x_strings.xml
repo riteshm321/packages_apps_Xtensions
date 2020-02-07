@@ -1117,6 +1117,8 @@
     <string name="pulse_ambient_light_color_title">Edge light color</string>
     <string name="pulse_ambient_light_duration_title">Duration</string>
     <string name="pulse_ambient_light_duration_summary">Sets the ambient light animation duration</string>
+    <string name="pulse_ambient_light_repeat_count_title">Repeat count</string>
+    <string name="pulse_ambient_light_repeat_count_summary">Set max repeat count. 0 for infinite</string>
 
     <!-- Tiles animation style -->
     <string name="qs_tiles">QS Tiles</string>
